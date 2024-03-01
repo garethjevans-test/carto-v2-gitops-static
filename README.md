@@ -1,0 +1,1 @@
+# carto-v2-gitops-static
